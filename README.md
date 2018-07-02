@@ -1,5 +1,5 @@
 # Voces en español con acento neutro de España
-Conjuto de voces de alta calidad en Español para centralitas compatibles con Asterisk y FreePBX.
+Conjuto de voces de alta calidad en Español para centralitas compatibles con Asterisk y FreePBX (core y extras).
 
 ## Uso
 Tan solo tienes que copiar la carpeta 'es' a la carpeta 'sounds/' de tu directorio de instalación
